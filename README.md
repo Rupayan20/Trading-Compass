@@ -1,8 +1,8 @@
 # <p align = "center"> 📌 Trading Compass @Stranger Hacks: GPT Era </p>
 
 
-### <p align = "center"> [After Selecting Microsoft Stock] </p>
-![Screenshot (57)](https://user-images.githubusercontent.com/102848153/229350513-0fb5923c-b044-48eb-b5b8-3aefacb8c0d2.png)
+### <p align = "center"> [To Select and Check Microsoft Stock's (MSFT) Value] </p>
+![Screenshot (59)](https://user-images.githubusercontent.com/102848153/229369427-a4eeb50e-d84f-4ec6-8d7c-b548aa4a4fca.png)
 
 ### <p align = "center"> [Home Page] </p>
 ![1234](https://user-images.githubusercontent.com/102848153/226175675-9b2d046a-b57c-44df-a417-a382d8ae043c.jpg)
