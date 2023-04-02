@@ -4,10 +4,10 @@
 ### <p align = "center"> [To Select and Check Microsoft Stock's (MSFT) Value] </p>
 ![Screenshot (59)](https://user-images.githubusercontent.com/102848153/229369427-a4eeb50e-d84f-4ec6-8d7c-b548aa4a4fca.png)
 
-### <p align = "center"> [Home Page] </p>
-![1234](https://user-images.githubusercontent.com/102848153/226175675-9b2d046a-b57c-44df-a417-a382d8ae043c.jpg)
+### <p align = "center"> [To Check Apple Stock's (AAPL) Value] </p>
+![Screenshot (60)](https://user-images.githubusercontent.com/102848153/229369534-36ea9e5b-e91e-4b98-9d18-9765056213b5.png)
 
-### <p align = "center"> [Pet Shop Page] </p>
+### <p align = "center"> [This is Google Stock's (GOOG) Predicted Value vs Original Value] </p>
 ![file_2023-03-19_11 42 49](https://user-images.githubusercontent.com/102848153/226175352-679cddc8-c1ab-4f6b-9762-620ec99a89cc.png)
 
 
@@ -41,4 +41,3 @@ One of the primary problems that stock market future prediction can solve is the
 - [x] <a href="https://github.com/RupamDasgupta"> Rupam Dasgupta </a>
 - [x] <a href="https://github.com/Rupayan20"> Rupayan Dutta </a>
 - [x] <a href="https://github.com/souvik-basak"> Souvik Basak </a>
-
