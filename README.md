@@ -11,7 +11,7 @@
 ![Screenshot (61)](https://user-images.githubusercontent.com/102848153/229369709-8f3d225b-40fc-4f55-9ebc-13913b6138ec.png)
 
 ### <p align = "center"> [This is Overall Stock Market's Predicted Value vs Original Value] </p>
-![Screenshot (61)](https://user-images.githubusercontent.com/102848153/229369709-8f3d225b-40fc-4f55-9ebc-13913b6138ec.png)
+![Screenshot (62)](https://user-images.githubusercontent.com/102848153/229370701-8c617333-a9ae-473e-885e-2a16b37e83e0.png)
 
 
 
