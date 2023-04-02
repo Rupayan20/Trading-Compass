@@ -38,7 +38,7 @@ One of the primary problems that stock market future prediction can solve is the
 
 
 ### Project Contributors:
-- [x] <a href="https://github.com/Pikselas"> Rupam Dasgupta </a>
+- [x] <a href="https://github.com/RupamDasgupta"> Rupam Dasgupta </a>
 - [x] <a href="https://github.com/Rupayan20"> Rupayan Dutta </a>
 - [x] <a href="https://github.com/souvik-basak"> Souvik Basak </a>
 
