@@ -8,7 +8,7 @@
 ![Screenshot (60)](https://user-images.githubusercontent.com/102848153/229369534-36ea9e5b-e91e-4b98-9d18-9765056213b5.png)
 
 ### <p align = "center"> [This is Google Stock's (GOOG) Predicted Value vs Original Value] </p>
-![file_2023-03-19_11 42 49](https://user-images.githubusercontent.com/102848153/226175352-679cddc8-c1ab-4f6b-9762-620ec99a89cc.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/102848153/229369709-8f3d225b-40fc-4f55-9ebc-13913b6138ec.png)
 
 
 
