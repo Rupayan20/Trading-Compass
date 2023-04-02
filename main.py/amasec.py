@@ -1,6 +1,6 @@
 import openai
 from apikey import APIKEY
-openai.api_key = "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"
+openai.api_key = "Enter My Openai API"
 
 def generate_response(prompt):
     model_engine = "davinci"
