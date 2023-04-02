@@ -1,5 +1,3 @@
-# here we will predict next day's stock value basis on all datas.
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -14,7 +12,7 @@ yf.pdr_override()   # override pandas_datareader
 ticker = input("Enter the stock symbol: ")
 
 start_date = '2000-01-01'
-end_date = (date.today() + timedelta(days=1)).strftime('%Y-%m-%d')   # get tomorrow's date
+end_date = (date.today()).strftime('%Y-%m-%d')   # get tomorrow's date
 
 data = pdr.get_data_yahoo(ticker, start_date, end_date)
 
@@ -27,7 +25,7 @@ plt.legend()
 plt.show()
 print(data.describe())
 
-prediction_days = 30   # predict the next 30 days
+prediction_days = 35  # predict the next 35 days
 data['Prediction'] = data['Close'].shift(-prediction_days)
 
 X = np.array(data.drop(['Prediction'], 1))
@@ -48,7 +46,7 @@ prediction = regressor.predict(X_test)
 plt.plot(prediction, label='Predicted Price')
 plt.plot(y_test, label='Test Data')
 plt.title(ticker + ' Stock Price Prediction')
-plt.xlabel('Minutes')
+plt.xlabel('hours')
 plt.ylabel('Price ($)')
 plt.legend()
 plt.show()
