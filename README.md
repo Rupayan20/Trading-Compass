@@ -19,7 +19,7 @@
 
  
 
-##  About CodeValds
+##  About Stranger Hacks: GPT Era
 Stranger times are here as AI tools revolutionise technology and industries across the board, leaving us builders with this incredibly game-changing power to innovate. And with that, it's time to unleash your inner maverick and create groundbreaking AI applications that will leave the world in awe!
 
 
@@ -40,5 +40,5 @@ One of the primary problems that stock market future prediction can solve is the
 ### Project Contributors:
 - [x] <a href="https://github.com/Pikselas"> Rupam Dasgupta </a>
 - [x] <a href="https://github.com/Rupayan20"> Rupayan Dutta </a>
-- [x] <a href="https://github.com/Codepalx"> Souvik Basak </a>
+- [x] <a href="https://github.com/souvik-basak"> Souvik Basak </a>
 
